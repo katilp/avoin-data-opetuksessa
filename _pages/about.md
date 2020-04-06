@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About Me
+title: HIP ja me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Avoin data -koulutuksen järjestää Fysiikan tutkimuslaitoksen [Avoin data ja koulutoiminta -projekti](http://www.hip.fi/?page_id=2985).
+
+Tavoitteenamme on edistää autenttisen tutkimusdatan käyttöä opetuksessa ja helpottaa modernien datatyökalujen opetusta ja oppimista.
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
